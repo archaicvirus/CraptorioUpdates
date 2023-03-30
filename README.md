@@ -15,7 +15,8 @@ inserters, and machines to craft science-packs which are used to research new te
 imposed by the Tic-80 dev enviornment. This is the point obviously, (or perhaps not so obvious to some) however 
 I do intend to add as many features and mechanics from the original as technically feasible.
 
-# Update: Currently working on worldgen, and oregen systems   
+# Updates:
+- Currently working on worldgen, and oregen systems   
 - Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project is development. The code will still be fully available, but only after initial release. I will then open the internal branch.
 - Will still post regular progress updates here
 
