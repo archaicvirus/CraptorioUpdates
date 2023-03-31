@@ -11,14 +11,13 @@ inserters, and machines to craft science-packs which are used to research new te
 
 - This is a passion project for me, and I am putting as much time into this as I can for now. That is between IRL work and daily obligations.
 
-- With that being said, not much is final ATM. Many game-mechanics will likey be left out due to the constraints
-imposed by the Tic-80 dev enviornment. This is the point obviously, (or perhaps not so obvious to some) however 
+- Certain game-mechanics will likey be left out, due to the constraints
+imposed by TIC80. This is the point obviously, (or perhaps not so obvious to some) however 
 I do intend to add as many features and mechanics from the original as technically feasible.
 
-# Updates:
+# Updates - Will post development and progress updates here
 - Currently working on worldgen, and oregen systems   
-- Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project remains development. The code will still be fully available, but only after initial release. I will then open the internal branch.
-- Will still post regular progress updates here
+- Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project remains in development. The code will still be fully available, but only after initial release. I will then open the internal branch.
 
 # Transport Belt
 - The idea here is to re-create belts VERY similar to factorio, however there are some differences.
