@@ -59,7 +59,7 @@ Inserters are rendered using 2 8x8 sprites, 1 for base, and 1 for straight arm o
 # World Generation
 - Skeleton system in place
 - Uses open simplex noise to generate terrain and ore fields
-- Generates a large island for the game world
+- Generates a large island for the starting game world, updating to support 'infinite' terrain
 - Generates separate fields for iron, copper, stone, etcetera.
 - Currently focused on ore distrubution and implementing remaining ore types (stone, coal, uranium, oil)
 - (TODO) Need to implement similar method above to generate forests
