@@ -17,7 +17,7 @@ I do intend to add as many features and mechanics from the original as technical
 
 # Updates:
 - Currently working on worldgen, and oregen systems   
-- Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project is development. The code will still be fully available, but only after initial release. I will then open the internal branch.
+- Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project remains development. The code will still be fully available, but only after initial release. I will then open the internal branch.
 - Will still post regular progress updates here
 
 # Transport Belt
