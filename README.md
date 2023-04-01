@@ -1,7 +1,7 @@
 ![craptorio_intro_screen](https://user-images.githubusercontent.com/25288625/227828751-3b368b87-f0eb-49df-9d21-7928a78b0876.gif)
 
 
-A de-make of Factorio for the [TIC80](tic80.com) fantasy console. 
+A de-make of Factorio for the [TIC80](https://tic80.com/) fantasy console. 
 
 **Note that at this time this project is a WIP.
 
