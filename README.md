@@ -20,6 +20,8 @@ I do intend to add as many features and mechanics from the original as technical
 - Moved source code to private repo. I have put a lot of time and energy into this project, so I have to decided to take this step to protect my efforts while the project remains in development. The code will still be fully available, but only after initial release. I will then open the internal branch.
 
 ![crafting_menu_test](https://user-images.githubusercontent.com/25288625/229274215-6586e950-eccf-4b99-a30b-f95d4678e94b.gif)
+![ui_test_05](https://user-images.githubusercontent.com/25288625/229348513-abfbc5e8-b86c-4a69-987f-53a673d63163.gif)
+
 
 # Transport Belt
 - The idea here is to re-create belts VERY similar to factorio, however there are some differences.
