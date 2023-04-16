@@ -4,7 +4,7 @@
 A de-make of Factorio for the [TIC-80](https://tic80.com/) fantasy console. 
 
 **Note that at this time this project is a WIP.
-
+- If you have found this page and would like to contribute to the project, please open a discussion and we can talk about the details.
 # Core idea for de-make
 - To cover the main factorio game loop, which is mining resources and using belts, 
 inserters, and machines to craft science-packs which are used to research new technologies.
