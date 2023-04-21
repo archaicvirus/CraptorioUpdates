@@ -18,6 +18,7 @@ I do intend to add as many features and mechanics from the original as technical
 # Updates - Will post development and progress updates here
 - Research will include upgrades to the player robot, such as increased fly speed, further range, etc
 - You now play as an advanced logistics robot, capable of flying over any terrain or obstacles
+- Added splitters - splits input lane/s into two different output lanes
 - Working on finishing new splitters
 - ~Currently working on crafting mechanics, inventory, and item systems.~
 ![becoming_the_bot](https://user-images.githubusercontent.com/25288625/233747874-5dfce2ab-9124-4e01-b493-294773ee6e85.gif)
