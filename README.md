@@ -3,6 +3,12 @@
 
 ![craptorio_intro_screen](https://user-images.githubusercontent.com/25288625/227828751-3b368b87-f0eb-49df-9d21-7928a78b0876.gif)
 
+#F4RT-1
+-The Factory Automation and Resource Transporter - F.A.R.T. (nicknamed F4RT-1 by it's creators) soared over a vast prairie, detecting unknown flora below. Its sensors scanned the petals and analyzed the data, while a part of its circuitry appreciated the natural beauty of the scene. F4RT-1 couldn't help but ponder the possibilities that lay beyond its original programming, despite the constant obligation to expand its factory. Further research may prove the planet's natural flora a useful resource.
+  
+![f4rt-1](https://user-images.githubusercontent.com/25288625/235383974-ad980540-8b2f-46bc-8860-661239a126a1.gif)
+
+
 
 A de-make of Factorio for the [TIC-80](https://tic80.com/) fantasy console. 
 
