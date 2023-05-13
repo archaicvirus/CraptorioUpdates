@@ -22,7 +22,11 @@ I do intend to add as many features and mechanics from the original as technical
 ![f4rt-1](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/989fa482-22f1-4b12-9b68-caa3deed29ae)
 ![worldmap_discovery](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/dc3e7129-e8bc-41cd-8257-d36b8ea812f1)
 
-https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/70c8f314-06e7-440b-a499-d8056371f6d4
+
+
+https://github.com/archaicvirus/Craptorio/assets/25288625/34839fe8-de9a-4f4c-abc7-4043b186686f
+
+
 
 
 - Added trees
