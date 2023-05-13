@@ -16,19 +16,6 @@ imposed by TIC80. This is the point obviously, (or perhaps not so obvious to som
 I do intend to add as many features and mechanics from the original as technically feasible.
 
 # Updates - Will post development and progress updates here
-![screen2](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/088a6b57-7863-4003-8cd3-11ccaf7e8413)
-![worldgen_demo](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/4a151e15-a226-4ce3-966a-7de3ef9d6062)
-![worldgen_update3](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/343df362-d373-4240-b7f6-7974bcab28c4)
-![f4rt-1](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/989fa482-22f1-4b12-9b68-caa3deed29ae)
-![worldmap_discovery](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/dc3e7129-e8bc-41cd-8257-d36b8ea812f1)
-
-
-
-https://github.com/archaicvirus/Craptorio/assets/25288625/34839fe8-de9a-4f4c-abc7-4043b186686f
-
-
-
-
 - Added trees
 - Big updates to worldgen system
 - Added burner mining drill
@@ -38,9 +25,17 @@ https://github.com/archaicvirus/Craptorio/assets/25288625/34839fe8-de9a-4f4c-abc
 - You now play as an advanced logistics robot, capable of flying over any terrain or obstacles
 - ~Working on finishing new splitters~
 - ~Currently working on crafting mechanics, inventory, and item systems.~
-![becoming_the_bot](https://user-images.githubusercontent.com/25288625/233747874-5dfce2ab-9124-4e01-b493-294773ee6e85.gif)
-![crafting_menu_test](https://user-images.githubusercontent.com/25288625/229274215-6586e950-eccf-4b99-a30b-f95d4678e94b.gif)
-![ui_test_05](https://user-images.githubusercontent.com/25288625/229348513-abfbc5e8-b86c-4a69-987f-53a673d63163.gif)
+- ![screen2](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/088a6b57-7863-4003-8cd3-11ccaf7e8413)
+- ![worldgen_demo](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/4a151e15-a226-4ce3-966a-7de3ef9d6062)
+- ![worldgen_update3](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/343df362-d373-4240-b7f6-7974bcab28c4)
+- ![f4rt-1](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/989fa482-22f1-4b12-9b68-caa3deed29ae)
+- ![worldmap_discovery](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/dc3e7129-e8bc-41cd-8257-d36b8ea812f1)
+- ![ubelt_test1](https://github.com/archaicvirus/Craptorio/assets/25288625/7638a38c-8823-49d5-be13-911b5a2f873c)
+- ![ubelt_test2](https://github.com/archaicvirus/Craptorio/assets/25288625/c76fa145-b73c-4960-a058-f8cf051e807b)
+- ![forest_demo](https://github.com/archaicvirus/Craptorio/assets/25288625/ccbcea60-1ac6-4772-a3af-81cf631ef3d5)
+- ![becoming_the_bot](https://user-images.githubusercontent.com/25288625/233747874-5dfce2ab-9124-4e01-b493-294773ee6e85.gif)
+- ![crafting_menu_test](https://user-images.githubusercontent.com/25288625/229274215-6586e950-eccf-4b99-a30b-f95d4678e94b.gif)
+- ![ui_test_05](https://user-images.githubusercontent.com/25288625/229348513-abfbc5e8-b86c-4a69-987f-53a673d63163.gif)
 
 
 # Transport Belt
