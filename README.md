@@ -1,13 +1,4 @@
-**Temp cover image
-
-
 ![craptorio_intro_screen](https://user-images.githubusercontent.com/25288625/227828751-3b368b87-f0eb-49df-9d21-7928a78b0876.gif)
-
-#F4RT-1
--The Factory Automation and Resource Transporter - F.A.R.T. (nicknamed F4RT-1 by it's creators) soared over a vast prairie, detecting unknown flora below. Its sensors scanned the petals and analyzed the data, while a part of its circuitry appreciated the natural beauty of the scene. F4RT-1 couldn't help but ponder the possibilities that lay beyond its original programming, despite the constant obligation to expand its factory. Further research may prove the planet's natural flora a useful resource.
-  
-![f4rt-1](https://user-images.githubusercontent.com/25288625/235383974-ad980540-8b2f-46bc-8860-661239a126a1.gif)
-
 
 
 A de-make of Factorio for the [TIC-80](https://tic80.com/) fantasy console. 
@@ -15,8 +6,8 @@ A de-make of Factorio for the [TIC-80](https://tic80.com/) fantasy console.
 **Note that at this time this project is a WIP.
 - If you have found this page and would like to contribute to the project, please open a discussion and we can talk about the details.
 # Core idea for de-make
-- To cover the main factorio game loop, which is mining for core resources, and using transport belts, 
-robotic inserters, and assembly machines to manufacture science-packs, which are consumed to research new technologies.
+- To cover the main factorio game loop, which is mining resources and using belts, 
+inserters, and machines to craft science-packs which are used to research new technologies.
 
 - This is a passion project for me, and I am putting as much time into this as I can for now. That is between IRL work and daily obligations.
 
@@ -25,10 +16,23 @@ imposed by TIC80. This is the point obviously, (or perhaps not so obvious to som
 I do intend to add as many features and mechanics from the original as technically feasible.
 
 # Updates - Will post development and progress updates here
+![screen2](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/088a6b57-7863-4003-8cd3-11ccaf7e8413)
+![worldgen_demo](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/4a151e15-a226-4ce3-966a-7de3ef9d6062)
+![worldgen_update3](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/343df362-d373-4240-b7f6-7974bcab28c4)
+![f4rt-1](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/989fa482-22f1-4b12-9b68-caa3deed29ae)
+![worldmap_discovery](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/dc3e7129-e8bc-41cd-8257-d36b8ea812f1)
+
+https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/70c8f314-06e7-440b-a499-d8056371f6d4
+
+
+- Added trees
+- Big updates to worldgen system
+- Added burner mining drill
+- Added stone furnace
+- Added underground belts
 - Research will include upgrades to the player robot, such as increased fly speed, further range, etc
 - You now play as an advanced logistics robot, capable of flying over any terrain or obstacles
-- Added splitters - splits input lane/s into two different output lanes
-- Working on finishing new splitters
+- ~Working on finishing new splitters~
 - ~Currently working on crafting mechanics, inventory, and item systems.~
 ![becoming_the_bot](https://user-images.githubusercontent.com/25288625/233747874-5dfce2ab-9124-4e01-b493-294773ee6e85.gif)
 ![crafting_menu_test](https://user-images.githubusercontent.com/25288625/229274215-6586e950-eccf-4b99-a30b-f95d4678e94b.gif)
