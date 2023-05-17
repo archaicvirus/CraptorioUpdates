@@ -1,5 +1,4 @@
-*This is a temporary cover image, credit goes to original author
-![craptorio_intro_screen](https://user-images.githubusercontent.com/25288625/227828751-3b368b87-f0eb-49df-9d21-7928a78b0876.gif)
+![craptorio_intro_screen2](https://github.com/archaicvirus/Craptorio/assets/25288625/d7617eda-aeee-45b1-941e-1cfa05e74992)
 
 
 A de-make of Factorio for the [TIC-80](https://tic80.com/) fantasy console. 
