@@ -57,11 +57,11 @@ https://github.com/archaicvirus/Craptorio/assets/25288625/d650e794-95a6-487c-966
 
 - Curved belts are also implemented, again as in the original game. The snapping behavior has been replicated, as well as the lane priority system, or preference to deposit items to specific other belt lanes depending on both belts rotation. The lane-priority-rotational-preferences also apply to inserters when depositing items onto a belt.
 
-**Update: Right now, the belt system is pretty far along. Most features/mechanics from the original are already implemented, excluding red and blue belts, (which are just faster belts). The 'drag locking' feature has just been implemented, which was an addition to the original from the devs at some point. Players love this feature beacause it locks belt-placing to either x or y, depending on the direction you drag your mouse while placing belts. Helps prevent unwanted belt placement.
+**Update: ~Right now, the belt system is pretty far along. Most features/mechanics from the original are already implemented, excluding red and blue belts, (which are just faster belts). The 'drag locking' feature has just been implemented, which was an addition to the original from the devs at some point. Players love this feature beacause it locks belt-placing to either x or y, depending on the direction you drag your mouse while placing belts. Helps prevent unwanted belt placement.~ - Completed!
 
 ![drag_lock_demo](https://user-images.githubusercontent.com/25288625/224528837-a106bc2c-11fe-4817-95ad-4086f3deb01b.gif)
 
-I plan on polishing the belt and inserter systems heavily before moving on to other entities/game mechanics.
+~I plan on polishing the belt and inserter systems heavily before moving on to other entities/game mechanics.~ - Done!
 As Harkonnen said, 'belts are the very heartbeat of factorio'. So I want these systems to function
 exceptionally well before trying to implement additional features. I believe once the core systems are worked out, 
 I will eventually create a list of proposed features, and try to order them by development priority.
