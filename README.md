@@ -28,6 +28,8 @@ I do intend to add as many features and mechanics from the original as technical
 - You now play as an advanced logistics robot, capable of flying over any terrain or obstacles
 - ~Working on finishing new splitters~
 - ~Currently working on crafting mechanics, inventory, and item systems.~
+- ![assembly_ui_layout_4](https://github.com/archaicvirus/Craptorio/assets/25288625/7f3aef5d-6e93-4471-95db-4b4932bc33be)
+- ![assembly_recipie_overlay_demo](https://github.com/archaicvirus/Craptorio/assets/25288625/53389950-9337-43ef-aa96-f9320457ea73)
 - ![screen2](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/088a6b57-7863-4003-8cd3-11ccaf7e8413)
 - ![worldgen_demo](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/4a151e15-a226-4ce3-966a-7de3ef9d6062)
 - ![worldgen_update3](https://github.com/archaicvirus/Craptorio-Internal/assets/25288625/343df362-d373-4240-b7f6-7974bcab28c4)
