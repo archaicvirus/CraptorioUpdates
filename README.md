@@ -19,6 +19,7 @@ imposed by TIC80. This is the point obviously, (or perhaps not so obvious to som
 I do intend to add as many features and mechanics from the original as technically feasible.
 
 # Updates - Will post development and progress updates here
+- Added assembly machine
 - Added trees
 - Big updates to worldgen system
 - Added burner mining drill
